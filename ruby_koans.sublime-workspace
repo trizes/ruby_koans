@@ -1,0 +1,438 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"feed",
+				"feedback_btn"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"chat",
+				"chatarea"
+			],
+			[
+				"validate",
+				"validateForm"
+			],
+			[
+				"set",
+				"setAttribute"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"get",
+				"getRandomColor"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"string",
+				"string"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"input",
+				"inputCells"
+			],
+			[
+				"inpu",
+				"inputCell"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "about_objects.rb",
+			"settings":
+			{
+				"buffer_size": 1279,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/HTML.sublime-build",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"syntax jq",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jque",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinte",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/trizes/edu/ruby_koans"
+	],
+	"file_history":
+	[
+		"/home/trizes/edu/ruby_koans/about_nil.rb",
+		"/home/trizes/edu/ruby_koans/about_asserts.rb",
+		"/home/trizes/edu/ruby_koans/about_arrays.rb",
+		"/home/trizes/edu/ruby_koans/about_objects.rb",
+		"/home/trizes/edu/ruby_koans/about_blocks.rb",
+		"/home/trizes/edu/livechat/assets/js/bits_n_pieces.js",
+		"/home/trizes/edu/livechat/assets/js/jquery-1.11.2.min.js",
+		"/home/trizes/edu/livechat/chat.js",
+		"/home/trizes/edu/livechat/assets/js/chat.js",
+		"/home/trizes/edu/livechat/htmlfiddle.html",
+		"/home/trizes/.config/sublime-text-3/Packages/AdvancedNewFile/Default (Linux).sublime-keymap",
+		"/home/trizes/edu/livechat/JS_notes.md",
+		"/home/trizes/edu/livechat/index.html",
+		"/home/trizes/edu/livechat/questions.js",
+		"/home/continuous/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/continuous/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/continuous/livechat/assets/stylesheets/main.css",
+		"/home/continuous/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/continuous/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"~/livechat"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"i",
+			"validator",
+			"message",
+			"color",
+			"rate_buttons",
+			"remove",
+			"form",
+			"messages",
+			"class=\"hidden\"",
+			"validate",
+			"setVisibility",
+			"visibility",
+			"fields",
+			"btn",
+			"\"",
+			"rate_buttons",
+			"form",
+			"var ",
+			"this.form",
+			"this.",
+			"this.chatarea",
+			"this.messages",
+			"this",
+			"validator.validateAndSubmit()",
+			"validateElement",
+			"validateelement",
+			"var ",
+			"btn",
+			"form",
+			"btn",
+			"validate",
+			"\"i\"",
+			".chat-log input",
+			"chat-log p ",
+			", p ",
+			"p",
+			"div",
+			"input",
+			"'type', 'submit",
+			"btn",
+			"10",
+			"validateEmail",
+			"i",
+			"this",
+			"var switcher = validator.validate(elem.name, elem.value);",
+			"var switcher",
+			"string",
+			"(document.getElementsByName(fields[",
+			"validator.validate",
+			"this",
+			"validate",
+			" i ",
+			"validate",
+			"validator.validate",
+			"  var switcher = validator.validate(this.name, this.value);\n  setVisibility(this.nextElementSibling, switcher)\n",
+			"var switcher = validator.validate(this.name, this.value);",
+			"setVisibility(this.nextElementSibling, switcher)",
+			"this",
+			"validate.",
+			".submit",
+			"inputCells[0]",
+			"font",
+			".name",
+			".email",
+			"\"visible\"",
+			"\"hidden\"",
+			"\"",
+			"false",
+			"true",
+			"input type=",
+			"i ",
+			"Капитализация процентов по депозиту",
+			"<!",
+			"visiter",
+			"visiters",
+			"=",
+			"//29",
+			"//",
+			"inherit",
+			"\n//",
+			"//",
+			"29",
+			"//"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "about_objects.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ruby_koans.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"about_ob",
+				"about_objects.rb"
+			],
+			[
+				"about_nil",
+				"about_nil.rb"
+			],
+			[
+				"about_asserts",
+				"about_asserts.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/edu/js-practice/js_practice.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
