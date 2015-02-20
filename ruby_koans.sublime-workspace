@@ -4,6 +4,22 @@
 		"selected_items":
 		[
 			[
+				"rolled",
+				"rolled"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"Jo",
+				"Johnson"
+			],
+			[
+				"and",
+				"and"
+			],
+			[
 				"each",
 				"each	.each()"
 			],
@@ -68,10 +84,10 @@
 	"buffers":
 	[
 		{
-			"file": "about_objects.rb",
+			"file": "about_scope.rb",
 			"settings":
 			{
-				"buffer_size": 1279,
+				"buffer_size": 1846,
 				"line_ending": "Unix"
 			}
 		}
@@ -164,11 +180,43 @@
 	],
 	"file_history":
 	[
-		"/home/trizes/edu/ruby_koans/about_nil.rb",
-		"/home/trizes/edu/ruby_koans/about_asserts.rb",
-		"/home/trizes/edu/ruby_koans/about_arrays.rb",
+		"/home/trizes/edu/ruby_koans/about_modules.rb",
+		"/home/trizes/edu/ruby_koans/about_scoring_project.rb",
+		"/home/trizes/edu/ruby_koans/about_symbols.rb",
+		"/home/trizes/edu/ruby_koans/about_inheritance.rb",
+		"/home/trizes/edu/ruby_koans/about_methods.rb",
+		"/home/trizes/edu/ruby_koans/about_dice_project.rb",
+		"/home/trizes/edu/ruby_koans/about_iteration.rb",
+		"/home/trizes/edu/ruby_koans/about_open_classes.rb",
+		"/home/trizes/edu/ruby_koans/about_classes.rb",
+		"/home/trizes/edu/ruby_koans/about_proxy_object_project.rb",
 		"/home/trizes/edu/ruby_koans/about_objects.rb",
+		"/home/trizes/edu/ruby_koans/example_file.txt",
+		"/home/trizes/edu/ruby_koans/about_sandwich_code.rb",
+		"/home/trizes/edu/ruby_koans/about_constants.rb",
 		"/home/trizes/edu/ruby_koans/about_blocks.rb",
+		"/home/trizes/edu/ruby_koans/about_exceptions.rb",
+		"/home/trizes/edu/ruby_koans/about_triangle_project_2.rb",
+		"/home/trizes/edu/ruby_koans/triangle.rb",
+		"/home/trizes/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/trizes/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/trizes/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/trizes/edu/ruby_koans/about_triangle_project.rb",
+		"/home/trizes/edu/ruby_koans/about_arrays.rb",
+		"/home/trizes/edu/ruby_koans/about_true_and_false.rb",
+		"/home/trizes/edu/ruby_koans/about_extra_credit.rb",
+		"/home/trizes/edu/ruby_koans/about_control_statements.rb",
+		"/home/trizes/edu/ruby_koans/about_keyword_arguments.rb",
+		"/home/trizes/edu/ruby_koans/koans.watchr",
+		"/home/trizes/edu/ruby_koans/about_regular_expressions.rb",
+		"/home/trizes/edu/ruby_koans/about_strings.rb",
+		"/home/trizes/Downloads/32080117.eml",
+		"/home/trizes/Downloads/5934179.eml",
+		"/home/trizes/edu/ruby_koans/about_hashes.rb",
+		"/home/trizes/edu/ruby_koans/about_scope.rb",
+		"/home/trizes/edu/ruby_koans/about_array_assignment.rb",
+		"/home/trizes/edu/ruby_koans/about_asserts.rb",
+		"/home/trizes/edu/ruby_koans/about_nil.rb",
 		"/home/trizes/edu/livechat/assets/js/bits_n_pieces.js",
 		"/home/trizes/edu/livechat/assets/js/jquery-1.11.2.min.js",
 		"/home/trizes/edu/livechat/chat.js",
@@ -201,6 +249,31 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"rolled",
+			"__",
+			"=",
+			":\\d",
+			"\"test\"",
+			"5,",
+			"__",
+			"new",
+			"MySpecialError",
+			"next",
+			"stack",
+			"__",
+			":\\w+(\\s+)",
+			" ",
+			"# ",
+			"__",
+			"with_an_expli",
+			"__",
+			"character class",
+			"bc",
+			"__",
+			"[]",
+			"__",
+			":",
+			"__",
 			"i",
 			"validator",
 			"message",
@@ -288,7 +361,7 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 		],
@@ -306,19 +379,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "about_objects.rb",
+					"file": "about_scope.rb",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1279,
+						"buffer_size": 1846,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								409,
-								409
+								205,
+								205
 							]
 						],
 						"settings":
@@ -327,7 +400,7 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": -0.0,
+						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
@@ -339,7 +412,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 31.0
+		"height": 39.0
 	},
 	"input":
 	{
@@ -388,6 +461,110 @@
 		"selected_items":
 		[
 			[
+				"scope",
+				"about_scope.rb"
+			],
+			[
+				"modul",
+				"about_modules.rb"
+			],
+			[
+				"inher",
+				"about_inheritance.rb"
+			],
+			[
+				"dice",
+				"about_dice_project.rb"
+			],
+			[
+				"open",
+				"about_open_classes.rb"
+			],
+			[
+				"classes",
+				"about_classes.rb"
+			],
+			[
+				"scori",
+				"about_scoring_project.rb"
+			],
+			[
+				"exam",
+				"example_file.txt"
+			],
+			[
+				"sand",
+				"about_sandwich_code.rb"
+			],
+			[
+				"block",
+				"about_blocks.rb"
+			],
+			[
+				"itera",
+				"about_iteration.rb"
+			],
+			[
+				"about_trian",
+				"about_triangle_project_2.rb"
+			],
+			[
+				"trian",
+				"about_triangle_project.rb"
+			],
+			[
+				"excep",
+				"about_exceptions.rb"
+			],
+			[
+				"triang",
+				"triangle.rb"
+			],
+			[
+				"true",
+				"about_true_and_false.rb"
+			],
+			[
+				"control",
+				"about_control_statements.rb"
+			],
+			[
+				"con",
+				"about_constants.rb"
+			],
+			[
+				"keyword",
+				"about_keyword_arguments.rb"
+			],
+			[
+				"methods",
+				"about_methods.rb"
+			],
+			[
+				"about_reg",
+				"about_regular_expressions.rb"
+			],
+			[
+				"sym",
+				"about_symbols.rb"
+			],
+			[
+				"string",
+				"about_strings.rb"
+			],
+			[
+				"hash",
+				"about_hashes.rb"
+			],
+			[
+				"assign",
+				"about_array_assignment.rb"
+			],
+			[
+				"array",
+				"about_arrays.rb"
+			],
+			[
 				"about_ob",
 				"about_objects.rb"
 			],
@@ -429,7 +606,7 @@
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 196.0,
 	"status_bar_visible": true,
 	"template_settings":
